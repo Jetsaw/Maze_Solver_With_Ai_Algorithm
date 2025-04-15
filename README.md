@@ -1,7 +1,7 @@
 # Maze_Solver_With_Ai_Algorithm
 Visualizes BFS and DFS algorithms step-by-step on user-defined mazes. Includes animation, path tracking, and performance comparison.
 
-----------------------------------------------------------------------------------------------------------------
+
 --------------------------------------------------How to Use----------------------------------------------------
 
 1) Enter the number of rows and columns
@@ -14,13 +14,14 @@ Visualizes BFS and DFS algorithms step-by-step on user-defined mazes. Includes a
 
 ----------------------------------------------------symbols-----------------------------------------------------
 
-@ - Start point (only one allowed)
+[@] - Start point (only one allowed)
 
-* - Target/Goal point (only one allowed)
+[*] - Target/Goal point (only one allowed)
 
-0 - Valid path 
+[0] - Valid path 
 
-# - Wall/Obstacle  
+[#] - Wall/Obstacle
+
 
 
 
