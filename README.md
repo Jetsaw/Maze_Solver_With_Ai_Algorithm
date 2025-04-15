@@ -14,12 +14,13 @@ Visualizes BFS and DFS algorithms step-by-step on user-defined mazes. Includes a
 
 ----------------------------------------------------symbols-----------------------------------------------------
 
-@ → Start point (only one allowed)
+@ - Start point (only one allowed)
 
-* → Target/Goal point (only one allowed)
+* - Target/Goal point (only one allowed)
 
-0 → Valid path (walkable space)
+0 - Valid path 
 
-# → Wall/Obstacle (non-walkable)
+# - Wall/Obstacle  
+
 
 
