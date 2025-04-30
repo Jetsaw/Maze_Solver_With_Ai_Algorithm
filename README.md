@@ -23,5 +23,6 @@ Visualizes BFS and DFS algorithms step-by-step on user-defined mazes. Includes a
 [#] - Wall/Obstacle
 
 
+<img width="292" alt="Screenshot 2025-04-30 123528" src="https://github.com/user-attachments/assets/71da01db-7b8d-4daa-85f7-30ab54b79dbc" />
 
 
